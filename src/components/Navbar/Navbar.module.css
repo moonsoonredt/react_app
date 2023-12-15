@@ -3,8 +3,8 @@
   background-color: rgb(130, 205, 130);
 }
 .item {
-  color: bisque;
+  color: #4b4136;
 }
-.item.active {
-  color:blue
+.activeLink {
+  color: rgba(10, 241, 188, 0.88);
 }
